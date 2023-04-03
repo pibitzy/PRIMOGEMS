@@ -7,6 +7,8 @@ Kelas IF231-G
 3. Valent Joseph Setiawan (00000075506)
 4. Citra Nandariani Intanputri (00000076059)
 
+Video Demo Permainan: https://www.youtube.com/watch?v=DeHOPs7Ezso
+
 Kami membuat game virtual pet dengan fitur-fitur berikut:
 1. Desain tampilan aplikasi yang menarik, responsive dan memiliki usability yang baik
 2. Komponen tampilan yang menarik (avatar, gambar, icon, dll)
