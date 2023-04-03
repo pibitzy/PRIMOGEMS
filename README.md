@@ -3,7 +3,7 @@ UTS PTI L - Primogems
 Anggota Kelompok:
 Kelas IF231-G
 1. Michael . (00000075848)
-2. Vincent Bryan (00000076794)
+2. Vincent Bryan (00000076794) (https://github.com/pibitzy/PRIMOGEMS.git)
 3. Valent Joseph Setiawan (00000075506)
 4. Citra Nandariani Intanputri (00000076059)
 
